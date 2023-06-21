@@ -6,7 +6,7 @@ const defaultMeta = {
   title: 'PinPoint',
   siteName: 'pinpoint',
   description:
-    'Make it easier for you to find what to do where you will like to',
+    'Make it easier for you to find what to do where you will like to 🥂.',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
   url: 'https://pinpoint-fawn.vercel.app',
   type: 'website',
