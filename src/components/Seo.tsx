@@ -6,16 +6,16 @@ const defaultMeta = {
   title: 'PinPoint',
   siteName: 'pinpoint',
   description:
-    'Make it easier for you to find what to do where you will like to',
+    'Make it easier for you to find what to do where you will like to 🥂.',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  url: 'https://tsnext-tw.thcl.dev',
+  url: 'https://pinpoint-fawn.vercel.app',
   type: 'website',
   robots: 'follow, index',
   /**
    * No need to be filled, will be populated with openGraph function
    * If you wish to use a normal image, just specify the path below
    */
-  image: 'https://tsnext-tw.thcl.dev/images/large-og.png',
+  image: 'https://pinpoint-fawn.vercel.app/images/large-og.png',
 };
 
 type SeoProps = {
